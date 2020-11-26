@@ -3,7 +3,7 @@
 public class Verwaltung {
 
 	public final int SIZE = 12;
-	private final Empoyees[] employee_list = new Employees[SIZE];
+	private final Employees[] employee_list = new Employees[SIZE];
 	
 	  private void init() {
 	  
