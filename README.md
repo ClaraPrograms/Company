@@ -35,7 +35,7 @@ public class Verwaltung {
 	public static void main(String[] args) {
 		
 		System.out.println(employee_list());    //getting an error message here:
-                                             //cannot make a static reference to a non static method
-                                              //what would be the easiest way to fix this?
+                                  //cannot make a static reference to a non static method
+                                  //what would be the easiest way to fix this?
 		
 	}
